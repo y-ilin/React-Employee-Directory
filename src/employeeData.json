@@ -1,0 +1,50 @@
+[
+  {
+    "photo": "to be updated",
+    "name": "Sawyer Ford",
+    "location": "Melbourne",
+    "role": "CEO",
+    "email": "sawyerford@gmail.com",
+    "phoneNumber": "0408765876"
+  },
+  {
+    "photo": "to be updated",
+    "name": "Sun-Hwa Kwon",
+    "location": "Melbourne",
+    "role": "COO",
+    "email": "sunhwakwon@gmail.com",
+    "phoneNumber": "0409762671"
+  },
+  {
+    "photo": "to be updated",
+    "name": "Kate Austen",
+    "location": "Melbourne",
+    "role": "CEO",
+    "email": "kateausten@gmail.com",
+    "phoneNumber": "0408765876"
+  },
+  {
+    "photo": "to be updated",
+    "name": "Sayid Jarrah",
+    "location": "Melbourne",
+    "role": "CEO",
+    "email": "sayidjarrah@gmail.com",
+    "phoneNumber": "0408765876"
+  },
+  {
+    "photo": "to be updated",
+    "name": "Jack Shephard",
+    "location": "Melbourne",
+    "role": "CEO",
+    "email": "jackshephard@gmail.com",
+    "phoneNumber": "0408765876"
+  },
+  {
+    "photo": "to be updated",
+    "name": "Jin-Soo Kwon",
+    "location": "Melbourne",
+    "role": "CEO",
+    "email": "jinsookwon@gmail.com",
+    "phoneNumber": "0408765876"
+  }
+]

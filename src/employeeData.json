@@ -1,5 +1,6 @@
 [
   {
+    "id": "092940b2-fa76-11ea-adc1-0242ac120002",
     "photo": "to be updated",
     "name": "Sawyer Ford",
     "location": "Melbourne",
@@ -8,43 +9,84 @@
     "phoneNumber": "0408765876"
   },
   {
+    "id": "09294346-fa76-11ea-adc1-0242ac120002",
     "photo": "to be updated",
     "name": "Sun-Hwa Kwon",
     "location": "Melbourne",
-    "role": "COO",
+    "role": "A",
     "email": "sunhwakwon@gmail.com",
     "phoneNumber": "0409762671"
   },
   {
+    "id": "09294440-fa76-11ea-adc1-0242ac120002",
     "photo": "to be updated",
     "name": "Kate Austen",
-    "location": "Melbourne",
-    "role": "CEO",
+    "location": "Sydney",
+    "role": "Z",
     "email": "kateausten@gmail.com",
     "phoneNumber": "0408765876"
   },
   {
+    "id": "0929451c-fa76-11ea-adc1-0242ac120002",
     "photo": "to be updated",
     "name": "Sayid Jarrah",
-    "location": "Melbourne",
+    "location": "Sydney",
     "role": "CEO",
     "email": "sayidjarrah@gmail.com",
     "phoneNumber": "0408765876"
   },
   {
+    "id": "092947c4-fa76-11ea-adc1-0242ac120002",
     "photo": "to be updated",
     "name": "Jack Shephard",
     "location": "Melbourne",
-    "role": "CEO",
+    "role": "Developer",
     "email": "jackshephard@gmail.com",
     "phoneNumber": "0408765876"
   },
   {
+    "id": "092948aa-fa76-11ea-adc1-0242ac120002",
     "photo": "to be updated",
     "name": "Jin-Soo Kwon",
-    "location": "Melbourne",
-    "role": "CEO",
+    "location": "Sydney",
+    "role": "Developer",
     "email": "jinsookwon@gmail.com",
+    "phoneNumber": "0408765876"
+  },
+  {
+    "id": "09294972-fa76-11ea-adc1-0242ac120002",
+    "photo": "to be updated",
+    "name": "Hurley Reyes",
+    "location": "Melbourne",
+    "role": "Designer",
+    "email": "hurleyreyes@gmail.com",
+    "phoneNumber": "0408765876"
+  },
+  {
+    "id": "09294a3a-fa76-11ea-adc1-0242ac120002",
+    "photo": "to be updated",
+    "name": "John Locke",
+    "location": "Canberra",
+    "role": "Developer",
+    "email": "johnlocke@gmail.com",
+    "phoneNumber": "0408765876"
+  },
+  {
+    "id": "09294b0c-fa76-11ea-adc1-0242ac120002",
+    "photo": "to be updated",
+    "name": "Charlie Pace",
+    "location": "Brisbane",
+    "role": "Manager",
+    "email": "charliepace@gmail.com",
+    "phoneNumber": "0408765876"
+  },
+  {
+    "id": "09294bca-fa76-11ea-adc1-0242ac120002",
+    "photo": "to be updated",
+    "name": "Desmond Hume",
+    "location": "Melbourne",
+    "role": "Developer",
+    "email": "desmondhume@gmail.com",
     "phoneNumber": "0408765876"
   }
 ]

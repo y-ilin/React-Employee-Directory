@@ -6,7 +6,7 @@ function SearchForm(props) {
     return (
         <form>
             <input
-                value={props.search}
+                value={props.value}
                 onChange={props.handleInputChange}
                 name="searchInput"
                 type="text"

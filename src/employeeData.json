@@ -13,7 +13,7 @@
     "photo": "https://randomuser.me/api/portraits/med/men/19.jpg",
     "name": "Jon Castillo",
     "location": "Melbourne",
-    "role": "A",
+    "role": "Chef",
     "email": "joncastillo@gmail.com",
     "phoneNumber": "0405660144"
   },
@@ -22,7 +22,7 @@
     "photo": "https://randomuser.me/api/portraits/med/men/71.jpg",
     "name": "Felipe Iglesias",
     "location": "Sydney",
-    "role": "Z",
+    "role": "Frontend Engineer",
     "email": "felipeiglesias@gmail.com",
     "phoneNumber": "0407196603"
   },
@@ -31,7 +31,7 @@
     "photo": "https://randomuser.me/api/portraits/med/men/86.jpg",
     "name": "Meinhard Markus",
     "location": "Sydney",
-    "role": "CEO",
+    "role": "Development Lead",
     "email": "meinhardmarkus@gmail.com",
     "phoneNumber": "0407459626"
   },
@@ -40,7 +40,7 @@
     "photo": "https://randomuser.me/api/portraits/med/women/16.jpg",
     "name": "Karla Kristensen",
     "location": "Melbourne",
-    "role": "Developer",
+    "role": "Backend Engineer",
     "email": "karlakristensen@gmail.com",
     "phoneNumber": "0406910682"
   },
@@ -49,7 +49,7 @@
     "photo": "https://randomuser.me/api/portraits/med/men/79.jpg",
     "name": "Tuncay Van der Tuin",
     "location": "Sydney",
-    "role": "Developer",
+    "role": "Graphic Designer",
     "email": "tuncayvandertuin@gmail.com",
     "phoneNumber": "0407071961"
   },
@@ -66,8 +66,8 @@
     "id": "f30b8a12-5f03-4d84-bba7-1a5893945015",
     "photo": "https://randomuser.me/api/portraits/med/women/65.jpg",
     "name": "Anna Lewis",
-    "location": "Canberra",
-    "role": "Developer",
+    "location": "Brisbane",
+    "role": "Senior Backend Engineer",
     "email": "annalewis@gmail.com",
     "phoneNumber": "0405294928"
   },
@@ -76,7 +76,7 @@
     "photo": "https://randomuser.me/api/portraits/med/men/25.jpg",
     "name": "Jon Patterson",
     "location": "Brisbane",
-    "role": "Manager",
+    "role": "Design Team Lead",
     "email": "jonpatterson@gmail.com",
     "phoneNumber": "0403624176"
   },
@@ -85,7 +85,7 @@
     "photo": "https://randomuser.me/api/portraits/med/women/45.jpg",
     "name": "Emma Carrasco",
     "location": "Melbourne",
-    "role": "Developer",
+    "role": "Engineering Coordinator",
     "email": "emmacarrasco@gmail.com",
     "phoneNumber": "0401296043"
   }

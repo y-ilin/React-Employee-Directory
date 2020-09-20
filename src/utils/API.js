@@ -12,6 +12,7 @@ export default {
     return filteredEmployees;
   },
   sortData: (data, category) => {
-    return data.sort((a, b) => (a[category] > b[category]) ? 1 : -1);
+    const newData = [...data];
+    return newData.sort((a, b) => (a[category] > b[category]) ? 1 : -1);
   }
 };

@@ -29,7 +29,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 Deployed application link [here](https://y-ilin.github.io/React-Employee-Directory/index.html).
 
 The application will look something like this:
-![Application Screenshot](./src/app-screenshot.png)
+![Application Screenshot](./src/application-screenshot.png)
 
 
 ## License

@@ -28,11 +28,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Deployed application link [here].
 
-The application landing page will look something like this:
-![Application Landing Page Screenshot](./public/application-screenshot-landing.png)
-
-And the workout dashboard something like this:
-![Application Dashboard Page Screenshot](./public/application-screenshot-dashboard.png)
+The application will look something like this:
+![Application Landing Page Screenshot](./src/application-screenshot.png)
 
 
 ## License

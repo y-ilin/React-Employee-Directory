@@ -1,11 +1,8 @@
-// import axios from "axios";
-import EmployeeData from "../employeeData.json"
-
-// Export an object containing methods we'll use for accessing the Wikipedia API
+// Export an object containing methods used for filtering and sorting
 
 export default {
-  filterByName: searchState => {
-    const filteredEmployees = EmployeeData.filter(employee => {
+  filterByName: (searchState, sortedList) => {
+    const filteredEmployees = sortedList.filter(employee => {
         const name = employee.name.toLowerCase();
         return name.includes(searchState);
     });

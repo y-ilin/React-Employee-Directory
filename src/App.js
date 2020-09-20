@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-// import { BrowserRouter as Router, Route } from "react-router-dom";
 // import logo from './logo.svg';
 import './App.css';
 import EmployeeData from "./employeeData.json";
@@ -9,44 +8,43 @@ import SearchForm from "./components/searchForm";
 import SortMenu from "./components/sortMenu";
 import API from "./utils/API";
 
-// const sortData = (data, category) => {
-//   return data.sort((a, b) => (a[category] > b[category]) ? 1 : -1);
-// }
-
 function App() {
-  const [filterState, setFilterState] = useState(EmployeeData);
+  // to track what to sort by
+  const [sortState, setSortState] = useState("");
+  // to track what to filter by
   const [searchState, setSearchState] = useState("");
+  // employeeList to be rendered
+  const [employeeList, setEmployeeList] = useState(EmployeeData);
 
-  // Sorting employees by category ///////////////////////
-  const sortEmployees = (filterState, category) => {
-    const sortedArray = API.sortData(filterState, category.toLowerCase());
-    setFilterState(sortedArray);
-    console.log("filter state is: ", filterState)
+  // Sorting employees by category
+  const sortEmployees = (employees, category) => {
+    return API.sortData(employees, category.toLowerCase());
   };
 
-  const handleSortBtn = e => {
-    sortEmployees(filterState, e.target.innerHTML);
-  }
-
-  // for debugging /////////////////////////////////////
-  useEffect(() => {
-    console.log("filterState changed!!")
-  }, [filterState])
-
-  // Searching by name /////////////////////////////////
   // Filtering employees
-  const filterEmployees = searchState => {
-    setFilterState(API.filterByName(searchState));
+  const filterEmployees = (searchState, sortedList) => {
+    return API.filterByName(searchState, sortedList);
   }
 
-  // When the search form value changes, run filterEmployees() with the new value
+  // When the search form or sort changes, run this to compute new employee list
   useEffect(() => {
-    // if (!searchState) {
-    //   return;
-    // }
-    filterEmployees(searchState);
-  }, [searchState])
+    // sort employees
+    const sortedList = sortEmployees(EmployeeData, sortState) //EmployeeData, Location
 
+    // filter employees to get a new array
+    const filteredSortedList = filterEmployees(searchState, sortedList); //"sa", sorted list
+
+    // Update employee list to render
+    setEmployeeList(filteredSortedList);
+
+  }, [sortState, searchState])
+
+  // Handle choosing a sort option
+  const handleSortBtn = e => {
+    setSortState(e.target.innerHTML);
+  }
+
+  // Handle a change in the name search
   const handleInputChange = e => {
     setSearchState(e.target.value);
   }
@@ -62,7 +60,7 @@ function App() {
         handleSortBtn={handleSortBtn}
       />
       <EmployeeTable 
-        employees={filterState}
+        employees={employeeList}
       />
     </>
   );

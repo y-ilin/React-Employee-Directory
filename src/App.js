@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 // import logo from './logo.svg';
+// import axios from "axios";
 import './App.css';
 import EmployeeData from "./employeeData.json";
 import PageHeader from "./components/pageHeader";
@@ -50,19 +51,21 @@ function App() {
   }
 
   return (
-    <>
+    <div className="wrapper">
       <PageHeader />
-      <SearchForm
-        handleInputChange={handleInputChange}
-        value={searchState}
-      />
-      <SortMenu 
-        handleSortBtn={handleSortBtn}
-      />
+      <div className="filterSortDiv">
+        <SearchForm
+          handleInputChange={handleInputChange}
+          value={searchState}
+        />
+        <SortMenu 
+          handleSortBtn={handleSortBtn}
+        />
+      </div>
       <EmployeeTable 
         employees={employeeList}
       />
-    </>
+    </div>
   );
 }
 

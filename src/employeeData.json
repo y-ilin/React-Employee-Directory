@@ -1,92 +1,92 @@
 [
   {
-    "id": "092940b2-fa76-11ea-adc1-0242ac120002",
-    "photo": "to be updated",
-    "name": "Sawyer Ford",
+    "id": "59a73cef-6d42-4603-91f9-780533d919ea",
+    "photo": "https://randomuser.me/api/portraits/med/women/19.jpg",
+    "name": "Ellen May",
     "location": "Melbourne",
     "role": "CEO",
-    "email": "sawyerford@gmail.com",
-    "phoneNumber": "0408765876"
+    "email": "ellenmay@gmail.com",
+    "phoneNumber": "0401478677"
   },
   {
-    "id": "09294346-fa76-11ea-adc1-0242ac120002",
-    "photo": "to be updated",
-    "name": "Sun-Hwa Kwon",
+    "id": "70c8079f-9847-420c-816c-8e3b9eae4f3a",
+    "photo": "https://randomuser.me/api/portraits/med/men/19.jpg",
+    "name": "Jon Castillo",
     "location": "Melbourne",
     "role": "A",
-    "email": "sunhwakwon@gmail.com",
-    "phoneNumber": "0409762671"
+    "email": "joncastillo@gmail.com",
+    "phoneNumber": "0405660144"
   },
   {
-    "id": "09294440-fa76-11ea-adc1-0242ac120002",
-    "photo": "to be updated",
-    "name": "Kate Austen",
+    "id": "d19a5b32-8b7b-4ffb-89de-2419d2f55d1c",
+    "photo": "https://randomuser.me/api/portraits/med/men/71.jpg",
+    "name": "Felipe Iglesias",
     "location": "Sydney",
     "role": "Z",
-    "email": "kateausten@gmail.com",
-    "phoneNumber": "0408765876"
+    "email": "felipeiglesias@gmail.com",
+    "phoneNumber": "0407196603"
   },
   {
-    "id": "0929451c-fa76-11ea-adc1-0242ac120002",
-    "photo": "to be updated",
-    "name": "Sayid Jarrah",
+    "id": "7949c017-3e18-43d4-b20a-7c96554f64b4",
+    "photo": "https://randomuser.me/api/portraits/med/men/86.jpg",
+    "name": "Meinhard Markus",
     "location": "Sydney",
     "role": "CEO",
-    "email": "sayidjarrah@gmail.com",
-    "phoneNumber": "0408765876"
+    "email": "meinhardmarkus@gmail.com",
+    "phoneNumber": "0407459626"
   },
   {
-    "id": "092947c4-fa76-11ea-adc1-0242ac120002",
-    "photo": "to be updated",
-    "name": "Jack Shephard",
+    "id": "480e63ce-e967-4cb7-ae6d-454b67245797",
+    "photo": "https://randomuser.me/api/portraits/med/women/16.jpg",
+    "name": "Karla Kristensen",
     "location": "Melbourne",
     "role": "Developer",
-    "email": "jackshephard@gmail.com",
-    "phoneNumber": "0408765876"
+    "email": "karlakristensen@gmail.com",
+    "phoneNumber": "0406910682"
   },
   {
-    "id": "092948aa-fa76-11ea-adc1-0242ac120002",
-    "photo": "to be updated",
-    "name": "Jin-Soo Kwon",
+    "id": "a38bcfc4-0d2d-4f3d-9eac-090f83c5e605",
+    "photo": "https://randomuser.me/api/portraits/med/men/79.jpg",
+    "name": "Tuncay Van der Tuin",
     "location": "Sydney",
     "role": "Developer",
-    "email": "jinsookwon@gmail.com",
-    "phoneNumber": "0408765876"
+    "email": "tuncayvandertuin@gmail.com",
+    "phoneNumber": "0407071961"
   },
   {
-    "id": "09294972-fa76-11ea-adc1-0242ac120002",
-    "photo": "to be updated",
-    "name": "Hurley Reyes",
+    "id": "c69b1941-0e1b-4608-96ac-902600182767",
+    "photo": "https://randomuser.me/api/portraits/med/women/89.jpg",
+    "name": "Sonia Rojas",
     "location": "Melbourne",
     "role": "Designer",
-    "email": "hurleyreyes@gmail.com",
-    "phoneNumber": "0408765876"
+    "email": "soniarojas@gmail.com",
+    "phoneNumber": "0406521497"
   },
   {
-    "id": "09294a3a-fa76-11ea-adc1-0242ac120002",
-    "photo": "to be updated",
-    "name": "John Locke",
+    "id": "f30b8a12-5f03-4d84-bba7-1a5893945015",
+    "photo": "https://randomuser.me/api/portraits/med/women/65.jpg",
+    "name": "Anna Lewis",
     "location": "Canberra",
     "role": "Developer",
-    "email": "johnlocke@gmail.com",
-    "phoneNumber": "0408765876"
+    "email": "annalewis@gmail.com",
+    "phoneNumber": "0405294928"
   },
   {
-    "id": "09294b0c-fa76-11ea-adc1-0242ac120002",
-    "photo": "to be updated",
-    "name": "Charlie Pace",
+    "id": "510507ce-0664-4574-90e1-2d17691935af",
+    "photo": "https://randomuser.me/api/portraits/med/men/25.jpg",
+    "name": "Jon Patterson",
     "location": "Brisbane",
     "role": "Manager",
-    "email": "charliepace@gmail.com",
-    "phoneNumber": "0408765876"
+    "email": "jonpatterson@gmail.com",
+    "phoneNumber": "0403624176"
   },
   {
-    "id": "09294bca-fa76-11ea-adc1-0242ac120002",
-    "photo": "to be updated",
-    "name": "Desmond Hume",
+    "id": "7b95f17b-47bd-4a22-a8be-8fdf2b5341a9",
+    "photo": "https://randomuser.me/api/portraits/med/women/45.jpg",
+    "name": "Emma Carrasco",
     "location": "Melbourne",
     "role": "Developer",
-    "email": "desmondhume@gmail.com",
-    "phoneNumber": "0408765876"
+    "email": "emmacarrasco@gmail.com",
+    "phoneNumber": "0401296043"
   }
 ]

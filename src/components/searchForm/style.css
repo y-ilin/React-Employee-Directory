@@ -1,0 +1,11 @@
+form {
+  margin-right: 20px;
+  width: 250px;
+}
+
+input {
+  border-radius: 20px;
+  border: 1px rgb(65, 0, 255) solid;
+  padding: 3px 10px;
+  width: 100%;
+}

@@ -1,0 +1,9 @@
+.employeeTable {
+  margin: 0;
+  width: 95%;
+}
+
+th {
+  color: rgb(65, 0, 255);
+  padding: 5px 10px;
+}

@@ -1,11 +1,10 @@
 import React from "react";
-// import "./style.css";
-import EmployeeRow from "./employeeRow";
+import "./style.css";
+import EmployeeRow from "../employeeRow";
 
 function EmployeeTable(props) {
     return (
         <table className="employeeTable">
-            {console.log("employee table changing")}
             <thead>
                 <tr>
                     <th></th>

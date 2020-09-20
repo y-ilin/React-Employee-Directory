@@ -1,0 +1,13 @@
+.btn-primary.btn-primary {
+  background-color: rgb(65, 0, 255);
+  border-radius: 20px;
+  border: 1px rgb(65, 0, 255) solid;
+}
+
+.dropdown-menu.show.dropdown-menu.show {
+  border-radius: 20px;
+}
+
+.dropdown-item.dropdown-item {
+  color: rgb(65, 0, 255);
+}

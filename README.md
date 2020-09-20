@@ -26,7 +26,7 @@ npm start
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Deployed application link [here].
+Deployed application link [here](https://y-ilin.github.io/React-Employee-Directory/index.html).
 
 The application will look something like this:
 ![Application Landing Page Screenshot](./src/application-screenshot.png)
